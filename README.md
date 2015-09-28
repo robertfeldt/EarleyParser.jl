@@ -1,1 +1,3 @@
-# EarleyParser.jl - compact but useful Earley parsing in Julia
+# EarleyParser.jl
+
+Compact but useful Earley parsing in Julia.
